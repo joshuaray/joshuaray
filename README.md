@@ -14,6 +14,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   <img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white">
+  <img alt="XAML" src="https://custom-icon-badges.demolab.com/badge/XAML-0C54C2.svg?logo=xaml&logoColor=white">
 </p>
 
 #### Libraries | Frameworks
