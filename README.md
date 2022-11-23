@@ -26,9 +26,7 @@
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=%2361DAFB">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D.svg?logo=vue.js&logoColor=%2361DAFB">
-  <img alt=".Net" src="https://img.shields.io/badge/.Net-512BD4?logo=.net&logoColor=white">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
-  
+  <img alt=".Net" src="https://img.shields.io/badge/.Net-512BD4?logo=.net&logoColor=white">  
 </p>
 
 #### Data Store | Messaging
@@ -55,6 +53,8 @@
   <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS Lambda-FF9900.svg?logo=aws lambda&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github%20actions&logoColor=white">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-499bbc.svg?logo=netlify&logoColor=white">
 </p>
 
 #### Enterprise Software Implementation | Integration
