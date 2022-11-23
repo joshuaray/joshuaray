@@ -72,7 +72,7 @@
   <img alt="Power Apps" src="https://img.shields.io/badge/Power Apps-742774.svg?logo=power apps&logoColor=white">
   <img alt="Power Automate" src="https://img.shields.io/badge/Power Automate-2671E5.svg?logo=power automate&logoColor=white">
   <img alt="Power BI" src="https://img.shields.io/badge/Power BI-F2C811.svg?logo=power bi&logoColor=white">
-  <img alt="Workday" src="https://img.shields.io/badge/Workday-015db9.svg?logo=workday&logoColor=white">
+  <img alt="Workday" src="https://img.shields.io/badge/Workday-015db9.svg?logo=icloud&logoColor=white">
   <img alt="Zendesk" src="https://img.shields.io/badge/Zendesk-03363D.svg?logo=zendesk&logoColor=white">
 </p>
 
