@@ -59,7 +59,7 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github%20actions&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-499bbc.svg?logo=netlify&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Netlify-000000.svg?logo=vercel&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
 </p>
 
 #### Enterprise Software Implementation | Integration
