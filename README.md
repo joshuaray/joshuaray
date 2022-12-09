@@ -81,4 +81,3 @@
 ### Stats
 ![joshuaray's github stats](https://github-readme-stats-joshuaray.vercel.app/api?username=joshuaray&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=20232a&include_all_commits=true&count_private=true&hide=stars&line_height=30)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshuaray&theme=dark&background=20232a&border=FFFFFF)](https://git.io/streak-stats)
-<img src="https://activity-graph.herokuapp.com/graph?username=joshuaray&theme=react-dark&bg_color=20232a&hide_border=false&radius=10&border=FFF" width="98.5%"/>
